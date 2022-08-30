@@ -1,4 +1,4 @@
-### Hi there https://i.gifer.com/fzPJ.gif
+### Hi there <img src="https://i.gifer.com/fzPJ.gif" width="125px"> 
 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Funny_teenager)
