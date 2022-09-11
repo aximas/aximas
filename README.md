@@ -8,5 +8,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=aximas&show_icons=true&count_private=true"/>
 
-Pet projects
--------------------------
+> Pet projects
+
