@@ -12,3 +12,6 @@
 
 [Multipage Web3 application](http://multipage-web3-app.vercel.app "Campaigns web3 app") 
 
+[Live News](http://poop-news.vercel.app/ "Only fresh poop news") 
+
+[Crocodile app](http://crocodile-client.vercel.app/ "Gess picture first") *Draw something and broadcast it for others*
