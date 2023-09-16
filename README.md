@@ -10,7 +10,7 @@
 
 > Pet projects
 
-[Multipage Web3 application](http://multipage-web3-app.vercel.app "Campaigns web3 app") 
+[Jokes Land 😁😂](https://jokesland.fun/ "Fresh jokes platform")  
 
 [Live News](http://poop-news.vercel.app/ "Only fresh poop news") 
 
