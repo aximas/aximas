@@ -10,7 +10,7 @@
 
 > Pet projects
 
-[Jokes Land 😁😂](https://jokesland.fun/ "Fresh jokes platform")  
+[Jokes Land 🤣](https://jokesland.fun/ "Fresh jokes platform")  
 
 [Live News](http://poop-news.vercel.app/ "Only fresh poop news") 
 
