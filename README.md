@@ -14,4 +14,4 @@
 
 [About cats 🐈](https://cats2-all.vercel.app/ "Cats 2 all") 
  
-[To do app 🗒](https://todo-mobx-sandy.vercel.app/ "To do app on MobX") *Created using MUI* 
+[To do app 🗒](https://todo-mobx-sandy.vercel.app/ "To do app on MobX") *Created using Material UI* 
