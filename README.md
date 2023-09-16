@@ -12,6 +12,6 @@
 
 [Jokes Land 🤣](https://jokesland.fun/ "Fresh jokes platform")  
 
-[Live News](http://poop-news.vercel.app/ "Only fresh poop news") 
-
-[Crocodile app](http://crocodile-client.vercel.app/ "Gess picture first") *Draw something and broadcast it for others*
+[About cats](https://cats2-all.vercel.app/ "Cats 2 all") 
+ 
+[To do app](https://todo-mobx-sandy.vercel.app/ "To do app on MobX") *Created using MUI* 
