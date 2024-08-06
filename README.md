@@ -17,6 +17,6 @@
 
 [Sneakers Land 👟](https://sneakers-land.vercel.app/ "Sneakers") 
 
-[Face recognition 😐️️](https://github.com/aximas/face-detection "face detection on JS") 
+[Face recognition 😐️️](https://aximas.github.io/face-detection/ "face detection on JS") 
  
 [To do app 🗒](https://todo-mobx-sandy.vercel.app/ "To do app on MobX") *Created using Material UI and MobX* 
