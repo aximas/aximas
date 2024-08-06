@@ -15,6 +15,8 @@
 
 [About cats 🐈](https://cats2-all.vercel.app/ "Cats 2 all") 
 
-[Sneakers Land 👟](sneakers-land.vercel.app/") 
+[Sneakers Land 👟](https://sneakers-land.vercel.app/") 
+
+[Face recognition 😐️️](https://github.com/aximas/face-detection") 
  
 [To do app 🗒](https://todo-mobx-sandy.vercel.app/ "To do app on MobX") *Created using Material UI and MobX* 
