@@ -11,7 +11,7 @@
 
 > Pet projects
 
-[Jokes Land 🤣](https://jokesland.fun/ "Fresh jokes platform")  
+[Jokes Land 🤣](https://jokular.vercel.app/ "Fresh jokes platform")  
 
 [About cats 🐈](https://cats2-all.vercel.app/ "Cats 2 all") 
 
